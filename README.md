@@ -9,6 +9,6 @@ yarn add typescript \
 
 npx esrun ./mint.ts
 ```
-[Youtube tutorial] (https://www.youtube.com/watch?v=l7EyQUlNAdw)
+[Youtube tutorial](https://www.youtube.com/watch?v=l7EyQUlNAdw)
 
 Asset [here](https://github.com/solana-developers/opos-asset/tree/main/assets/DeveloperPortal) 
